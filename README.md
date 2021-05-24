@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+# 나는 박광현
 
-You can use the [editor on GitHub](https://github.com/kjpark102312/kjpark102312.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![프로필](https://user-images.githubusercontent.com/65499412/119362543-c5fb9a80-bce7-11eb-9758-b048e91e4b81.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 대충 작물
 
-### Markdown
+- 감자
+- 고구마
+- 바나나
+- 딸기
+- 하나더!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 대충 순서매기기
 
-```markdown
-Syntax highlighted code block
+1. 첫번째
+2. 두번째
+3. 세번째
 
-# Header 1
-## Header 2
-### Header 3
+> 글씨 편집은 어떻게 하나요?
 
-- Bulleted
-- List
+굵게는 **이렇게**
+기울기는 _이렇게_
+*이렇게도* 할 수 있고
+이렇게 ~~그을 수도~~ 있고
 
-1. Numbered
-2. List
+> 코드는 어떻게 쓰나요?
 
-**Bold** and _Italic_ and `Code` text
+한 줄은 `이렇게`
 
-[Link](url) and ![Image](src)
+여러 줄은 
+
+```
+#include <iostream>
+
+using namespace std;
+
+void main(){
+    cout << "HelloWorld" << endl;
+}
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+이렇게 하면 **코드별 편집**도 가능하고
 
-### Jekyll Themes
+```cpp
+#include <iostream>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kjpark102312/kjpark102312.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+using namespace std;
 
-### Support or Contact
+void main(){
+    cout << "HelloWorld" << endl;
+}
+```
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+> 링크랑 이미지는 어케 걸어요?!
+
+링크는
+[네이버](https://www.naver.com/)
+[나의 깃헙페이지](https://github.com/kjpark102312)
+
+이미지는
+![방탄소년단](https://user-images.githubusercontent.com/65499412/119362345-8df45780-bce7-11eb-9c28-f9e08c75c0d8.jpg)
